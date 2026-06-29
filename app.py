@@ -20,7 +20,7 @@ import plotly.graph_objects as go
 # CONFIGURATION
 # ============================================================================
 
-APP_ND_BLUE = "#003DA5"
+ND_BLUE = "#003DA5"
 ND_GOLD = "#FFD700"
 ND_DARK = "#002060"
 ND_RED = "#CC0000"
